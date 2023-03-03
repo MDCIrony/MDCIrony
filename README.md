@@ -4,8 +4,6 @@
 <img src="https://img.shields.io/github/followers/MDCIrony?style=social" alt="MDCIrony profile followers" />
 <img
 src="https://img.shields.io/github/last-commit/MDCIrony/MDCIrony" alt="MDCIrony presentation last commit" />
-<img
-src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="MDCIrony twitter" />
 </p>
 
 ### 🛠 Tech Stack 🛠
