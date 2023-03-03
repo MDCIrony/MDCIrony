@@ -26,9 +26,10 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 <p align="center" height='130px'>
 <img src="https://github-readme-stats.vercel.app/api?username=MDCIrony&show_icons=true&theme=aura&hide_title=true" alt="MDCIrony repositorys stats"/>
 </p>
-<p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDCIrony&layout=compact&show_icons=true&theme=aura&hide_title=true" alt="MDCIrony languages stats"/>
 </p>
+
 ### 🎧 I love music too! 🎧
 
 ---
