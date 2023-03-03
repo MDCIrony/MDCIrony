@@ -38,9 +38,10 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 
 <h2 align="center">:coffee: Let's connect :coffee:</h2></a>
 <p align="center">
-	<a href="https://github.com/MDCIrony"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+    <a href="https://github.com/MDCIrony"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+    <a href="mailto:miguel.backend@outlook.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/migueldiaz2023/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="Miguel Díaz Linkedin"/></a>
-        <a href="https://wa.me/0051921011156"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
+    <a href="https://wa.me/0051921011156"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
 </p>
 
 <h2 align="center">:zap: Recent Activity :zap:</h3>
