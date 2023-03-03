@@ -8,9 +8,9 @@ src="https://img.shields.io/github/last-commit/MDCIrony/MDCIrony" alt="MDCIrony 
 src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="MDCIrony twitter" />
 </p>
 
----
-
 ### 🛠 Tech Stack 🛠
+
+---
 
 <p align="center"> 
 <img src="https://skillicons.dev/icons?i=python,django,nodejs,typescript,express,git,github&theme=dark" />
@@ -19,16 +19,17 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,mongodb&theme=dark" />
 </p>
 
----
-
 ### :fire: Streak Stats :fire:
 
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=MDCIrony&show_icons=true&theme=aura&hide_title=true" alt="MDCIrony repositorys stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDCIrony&layout=compact&show_icons=true&theme=aura&hide_title=true
-" alt="MDCIrony languages stats"/> </p>
-
 ---
 
+<p align="center" height='130px'>
+<img src="https://github-readme-stats.vercel.app/api?username=MDCIrony&show_icons=true&theme=aura&hide_title=true" alt="MDCIrony repositorys stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDCIrony&layout=compact&show_icons=true&theme=aura&hide_title=true" alt="MDCIrony languages stats"/> </p>
+
 ### 🎧 I love music too! 🎧
+
+---
 
 <p align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=12162743732" alt="MDCIrony spotify" height="300px"/></p>
 
@@ -41,8 +42,6 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
         <a href="https://wa.me/0051921011156"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
 </p>
 
----
-
-<h3 align="center">:zap: Recent Activity :zap:</h3>
+<h2 align="center">:zap: Recent Activity :zap:</h3>
 
 ![Miguel Díaz Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MDCIrony&theme=merko&hide_border=true&area=true&hide_title=true)
